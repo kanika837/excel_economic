@@ -23,14 +23,6 @@ The project aims to achieve the following:
  * Reporting: Summarize all findings in a comprehensive report, supported by visualizations.
 
 
-
-
-
-
-   
-
-
-   
 Methodology
 
 The project follows a step-by-step implementation plan:
