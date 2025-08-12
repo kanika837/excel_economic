@@ -3,6 +3,9 @@
 The project's objective is to analyze macroeconomic data to understand economic trends and their impact on markets. The dataset provides a comprehensive view of sales transactions, including information on customer age, gender, location, product costs, and revenue.
 The analysis involves both numeric and categorical data, requiring a variety of analysis and visualization techniques.
 
+
+![WhatsApp Image 2025-08-03 at 19 34 13_c59c5efd](https://github.com/user-attachments/assets/a12d864e-ca15-4d09-918d-b7cb8e4f48c6)
+
 # Project Overview and objectives
 
 
@@ -37,10 +40,6 @@ The project follows a step-by-step implementation plan:
    
  * Reporting: The final step involves generating a summary report that details the data overview, key findings from the EDA and statistical analysis, and the results of the predictive modeling.
 
-
-
-
-![WhatsApp Image 2025-08-03 at 19 34 13_c59c5efd](https://github.com/user-attachments/assets/a12d864e-ca15-4d09-918d-b7cb8e4f48c6)
 
    
 # Conclusion
